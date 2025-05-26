@@ -130,7 +130,7 @@
 
 ---
 
-## 📊 Weekly Development Breakdown
+##  Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
 Python       12 hrs 30 mins  ████████████░░░░░  60.5%
@@ -166,6 +166,6 @@ YAML         25 mins         ░░░░░░░░░░░░░░░░░
   
 <sub> Always open to interesting conversations and collaboration opportunities!</sub>
 
-![Snake animation](https://github.com/parvej8461/parvej8461/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
