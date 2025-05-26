@@ -17,7 +17,7 @@
 -  I am currently working on **LLM fine-tuning and generative AI projects**
 -  I am learning **Advanced NLP, Prompt Engineering, and MLOps**
 -  I am looking to collaborate on **Data Science, Machine Learning, and Deep Learning Projects**
--  How to reach me: **parvej8461@gmail.com**
+-  How to reach me: **parvejakhter8461@gmail.com**
 -  Portfolio: [My Projects](https://github.com/parvej8461?tab=repositories)
 -  Fun fact: **I can turn coffee into machine learning models! ☕🤖**
 
@@ -147,7 +147,7 @@ YAML         25 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvej8461@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvejakhter8461@gmail.com)
 
 </div>
 
